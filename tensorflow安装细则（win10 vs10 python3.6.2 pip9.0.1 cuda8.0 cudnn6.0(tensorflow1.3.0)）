@@ -21,5 +21,5 @@ pip:https://pypi.python.org/pypi?%3Aaction=search&term=pip&submit=search 此链�
 
    
    
-更新cuda cudnn tensorflow:
+更新至cuda9 cudnn7 tensorflow1.6:
 http://blog.csdn.net/qq_33993942/article/details/79149669
